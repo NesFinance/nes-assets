@@ -42,7 +42,7 @@
     "earn": "NES",
     "dex": "swap?outputCurrency=0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
     "add": "add/ETH/0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
-    "tokenLP": "0x94985B6a256348251D0Ff7C3bA141f669e2808BB", //
+    "tokenLP": "0x94985B6a256348251D0Ff7C3bA141f669e2808BB",
     "lp": "0x3763A3263CEaca5e7Cc1Bc22A43920bAd9f743Cd",
     "tokenA": "0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
     "tokenB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
