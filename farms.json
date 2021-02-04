@@ -32,6 +32,22 @@
     "tokenB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
   },
   {
+    "pid": 24,
+    "from": "jetfuel",
+    "type": "other",
+    "x": "20X",
+    "icon": "coin_bnb_lp",
+    "title": "FUEL-BNB LPN",
+    "token": "FUEL-BNB LPN",
+    "earn": "NES",
+    "dex": "swap?outputCurrency=0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
+    "add": "add/ETH/0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
+    "tokenLP": "0x338DCF91949832174f01F26CfCCDF96Bc69Bd461",
+    "lp": "0x3763A3263CEaca5e7Cc1Bc22A43920bAd9f743Cd",
+    "tokenA": "0x2090c8295769791ab7a3cf1cc6e0aa19f35e441a",
+    "tokenB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+  },  
+  {
     "pid": 19,
     "from": "jetfuel",
     "type": "other",
